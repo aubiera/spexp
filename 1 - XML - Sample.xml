@@ -1,0 +1,11 @@
+<vehicles>
+  <cars>
+    <car make="Ford" model="Pinto"/>
+    <car make="Toyota" model="Prius"/>
+    <car make="Lexus" model="RX350"/>
+  </cars>
+  <trucks>
+    <truck make="Ford" model="F150"/>
+    <truck make="Toyota" model="Tacoma"/>
+  </trucks>
+</vehicles>

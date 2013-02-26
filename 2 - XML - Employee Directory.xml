@@ -1,0 +1,8 @@
+<Employees>
+	<Row FirstName="John" LastName="Doe" Email="john@doe.com" URLToPhoto="http://placehold.it/75x75" Department="Accounting"/>
+	<Row FirstName="Jane" LastName="Smith" Email="jane@smith.com" URLToPhoto="http://placehold.it/75x75" Department="Accounting"/>
+	<Row FirstName="Jack" LastName="Anderson" Email="jack@andersoncorp.com" URLToPhoto="http://placehold.it/75x75" Department="Sales"/>
+	<Row FirstName="Joe" LastName="Miller" Email="joe@millerinc.com" URLToPhoto="http://placehold.it/75x75" Department="Sales"/>
+	<Row FirstName="Jim" LastName="Bo" Email="jim@boenterprises.com" URLToPhoto="http://placehold.it/75x75" Department="IT"/>
+</Employees>
+
